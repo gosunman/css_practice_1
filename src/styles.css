@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  width: 100%;
+  height: 30vh;
+  background: rgba(36, 83, 214, 0.5);
+}
+
+nav {
+  width: 100%;
+  height: 7vh;
+  background: rgba(220, 228, 150, 0.2);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.home_button {
+  font-size: 2.5vw;
+  font-weight: 600;
+}
+
+.top_buttons {
+  display: flex;
+}
+
+.top_button {
+  font-size: 2vw;
+  font-weight: 600;
+  margin: 2vw;
+}
+
+.main_title {
+  padding-top: 7vw;
+  font-size: 4vw;
+  font-weight: 550;
+}
+
+.container {
+  width: 100%;
+  height: 62vh;
+  background: rgba(75, 73, 71, 0.2);
+}
+
+footer {
+  width: 100%;
+  height: 8vh;
+  background: rgba(75, 73, 71, 1);
+  display: flex;
+  align-items: center;
+}
